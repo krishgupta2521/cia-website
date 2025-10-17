@@ -15,7 +15,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-black/50 to-black"></div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl animate-fade-in-up">
-            <div className="mb-4 text-secondary font-mono text-sm">[root@cybersecure ~]$ ./init_security.sh</div>
+            <div className="mb-4 text-secondary font-mono text-sm">[root@cyberciaforge ~]$ ./init_security.sh</div>
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight terminal-text">
               &gt; Protecting Your <span className="gradient-text glitch-text" data-text="Digital World">Digital World</span>
             </h1>
@@ -118,10 +118,10 @@ export default function Home() {
             <div className="lg:w-1/2">
               <div className="text-secondary font-mono text-sm mb-2">/** ABOUT_US **/</div>
               <h2 className="text-4xl font-bold mb-6 terminal-text font-mono">
-                &lt; <span className="gradient-text">CyberSecure</span> /&gt;
+                &lt; <span className="gradient-text">cyberciaforge</span> /&gt;
               </h2>
               <p className="text-text-secondary mb-4 leading-relaxed font-mono text-sm">
-                // CyberSecure is a leading cybersecurity community and service provider focused on 
+                // cyberciaforge is a leading cybersecurity community and service provider focused on 
                 delivering cutting-edge security solutions and fostering knowledge sharing in the 
                 field of information security.
               </p>
@@ -141,7 +141,7 @@ export default function Home() {
                 <div className="absolute top-2 left-2 text-primary font-mono text-xs z-10">image.render()</div>
                 <Image 
                   src="/images/cybersecurity-team.jpg"
-                  alt="CyberSecure Team"
+                  alt="cyberciaforge Team"
                   layout="fill" 
                   objectFit="cover"
                 />
@@ -224,7 +224,7 @@ export default function Home() {
             <div className="modern-card p-8">
               <div className="testimonial-content mb-6">
                 <p className="italic text-text-secondary">
-                  "CyberSecure's penetration testing team identified critical vulnerabilities in our 
+                  "cyberciaforge's penetration testing team identified critical vulnerabilities in our 
                   infrastructure that we had overlooked for years. Their detailed remediation guidance was invaluable."
                 </p>
               </div>
@@ -248,7 +248,7 @@ export default function Home() {
             <div className="modern-card p-8 rounded-xl">
               <div className="testimonial-content mb-6">
                 <p className="italic text-text-secondary">
-                  "After experiencing a ransomware attack, CyberSecure's digital forensics team helped us 
+                  "After experiencing a ransomware attack, cyberciaforge's digital forensics team helped us 
                   recover our critical data and strengthen our security posture to prevent future incidents."
                 </p>
               </div>
@@ -272,7 +272,7 @@ export default function Home() {
             <div className="modern-card p-8 rounded-xl">
               <div className="testimonial-content mb-6">
                 <p className="italic text-text-secondary font-mono text-sm leading-relaxed">
-                  "Being part of the CyberSecure community has been an invaluable resource for our security team. 
+                  "Being part of the cyberciaforge community has been an invaluable resource for our security team. 
                   The knowledge sharing and support from experts has elevated our entire security program."
                 </p>
               </div>
